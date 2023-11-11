@@ -5,4 +5,4 @@
 # Mainnet and Testnet
 <img width="638" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/623da1f1-034a-4055-b0ab-8422b32d37e0">
 
-[**For more information about MAINNET ans TESTNET, you can read from here**](https://masterthecrypto.com/mainnet-vs-testnet-whats-the-difference/)
+[**For more information about MAINNET and TESTNET, you can read from here**](https://masterthecrypto.com/mainnet-vs-testnet-whats-the-difference/)
