@@ -31,6 +31,19 @@ _A state variable with public access modifier don't require any getter function_
 ### A brief about function 
 <img width="640" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/c2f973de-c447-4bb3-baa3-70c8a23cfc7b">
 
+### Constructor
+<img width="641" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/bc4debdf-ca34-4d27-ba23-149c46d73d11">
+
+_Below is the example of parameterised constructor, it needs value at the time of deployment_
+
+<img width="624" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/4b0ceaf6-f661-4cec-8cff-dcbaed8eb493">
+
+## Integers
+<img width="639" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/5a4db605-bdd2-4ccf-9b59-653f1a762717">
+<img width="634" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/b54727e5-d011-4efa-a74e-c19b6bc319ca">
+
+
+
 
 
 
