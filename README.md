@@ -42,6 +42,35 @@ _Below is the example of parameterised constructor, it needs value at the time o
 <img width="639" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/5a4db605-bdd2-4ccf-9b59-653f1a762717">
 <img width="634" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/b54727e5-d011-4efa-a74e-c19b6bc319ca">
 
+## Arrays in Solidity
+<img width="641" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/6c1d1df8-68ac-4ada-8f28-ab201a421dc7">
+
+**How to declare an array of fixed size in Solidity?**
+
+<img width="354" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/08850fa6-eb58-46b0-8d3c-956e37dd0ddf">
+
+**Updating a value at an index**
+
+<img width="346" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/a222d806-0c6d-4016-bc3c-deab9ecf45ce">
+<img width="197" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/bab72685-b5be-478e-8c7b-1d4f4086e5d2">
+
+**Function to get the lenght of an array**
+
+<img width="326" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/ab0aa36e-85c7-4532-82ad-25c2932428a9">
+<img width="200" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/506d7f12-2d6c-4a8b-a5bd-9126c6fe8716">
+
+**Declaring a dynamic array in Solidity**
+
+<img width="295" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/2f4c6047-d90e-47ac-a774-6c0a1da17009">
+
+**Now pushing element in array**
+
+<img width="284" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/3ac4ed97-175f-4ac4-9697-c641cf88f11e">
+<img width="194" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f20c7377-02a5-4253-a5f3-2c083d61b424">
+
+**Other operations :**
+
+<img width="581" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/d6321b47-d2bf-4dde-ab9a-4ac723e68c9d">
 
 
 
