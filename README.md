@@ -72,12 +72,20 @@ _Below is the example of parameterised constructor, it needs value at the time o
 
 <img width="581" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/d6321b47-d2bf-4dde-ab9a-4ac723e68c9d">
 
+**Byte Array**
 
+<img width="633" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/6225143d-605f-43e8-a600-1010e9a022b2">
 
+<img width="641" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/be6c72fc-b3cd-438e-8bb4-8e7314c1dd6f">
+<br/>
+<img width="344" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/41098346-ea43-443c-b405-3ddcab0e6d79">
+<img width="197" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/eeb0841c-ac02-4d8e-a209-e955e279fb46">
+<br/>
+<img width="641" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/189e808a-77f9-4a2d-8d2b-635316fb7373">
 
+**Dynamic Byte Array**
 
-
-
-
+<img width="428" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/98aca645-1d4c-4448-9cb5-8f4abf0be0c1">
+<img width="197" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/11c25857-594b-47b0-a5de-a520dc4a2c67">
 
 
