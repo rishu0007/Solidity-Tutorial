@@ -20,6 +20,11 @@
 
 ### Local Variable
 <img width="643" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/4b06cb11-4682-4cb9-ac8d-d34ea2de326c">
+
+**Special case of string as Local Variable**
+
+<img width="323" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/761ed0ea-f07b-48d9-ad2d-e5859987c427">
+<br/>
 <img width="638" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/62d62919-16f0-41e7-9c07-fea27fdc226c">
 
 ### Getter and setter
@@ -87,5 +92,15 @@ _Below is the example of parameterised constructor, it needs value at the time o
 
 <img width="428" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/98aca645-1d4c-4448-9cb5-8f4abf0be0c1">
 <img width="197" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/11c25857-594b-47b0-a5de-a520dc4a2c67">
+
+## Loops in solidity
+
+<img width="404" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/85465e0f-2103-4e0d-a8bf-ba03ebd2f28a">
+<img width="347" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/1b0dabb0-cdc7-43eb-ab94-4ed9187e87ab">
+
+## Conditional Statements in Solidity
+
+<img width="373" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/eff46176-5105-4d60-bdc6-7efc71dbb605">
+<img width="189" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/11dfe91e-b117-4781-852d-47f6bb7974a9">
 
 
