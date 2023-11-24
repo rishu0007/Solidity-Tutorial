@@ -103,4 +103,42 @@ _Below is the example of parameterised constructor, it needs value at the time o
 <img width="373" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/eff46176-5105-4d60-bdc6-7efc71dbb605">
 <img width="189" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/11dfe91e-b117-4781-852d-47f6bb7974a9">
 
+## Structure in Solidity
 
+<img width="376" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/06d340e2-c7f1-4e99-a95a-3c8a85311e63">
+<img width="208" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f14dc4fa-34b1-4e69-a5c2-1184c79a6ed3">
+<br/>
+
+**Changing the value in Structure**
+
+<img width="393" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/800032c3-49b9-425b-91a2-5fac3fdf26dc">
+
+## Enum
+
+<img width="425" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f16948d6-a070-48e7-b7a5-bb1d8c55fdc7">
+
+**Uses of Enum**
+
+<img width="448" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/7b023c7a-de7b-4cb6-97d0-be4e996780a3">
+
+## Mapping in Solidity
+
+<img width="335" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/05110f11-fa98-4a01-8a53-62f267682ff5">
+<img width="218" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/8aa74c6e-2a99-4099-ac20-e2e4f76ea3f9">
+
+**Mapping Integer with Structure**
+
+<img width="391" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/8d7b9ba8-4b3d-4cec-8122-3d47954eb8a4">
+<img width="261" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/6817e2ed-f4f3-4aed-938b-9dbdadf6aa20">
+
+<img width="638" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f8df3d2d-ac5f-4c8f-b3b2-cd80939dad59">
+
+## Storage vs Memory
+
+<img width="640" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/65f7857a-1e15-4bcf-b214-990bb204469a">
+
+<img width="632" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f4d0936d-1718-436b-87db-a8e376d4a1ae">
+
+## Global Variable
+
+<img width="461" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/6431d4f1-6b72-465f-8e0d-95f1c7e6fa3f">
