@@ -139,6 +139,6 @@ _Below is the example of parameterised constructor, it needs value at the time o
 
 <img width="632" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f4d0936d-1718-436b-87db-a8e376d4a1ae">
 
-## Global Variable
+## Global Variables
 
 <img width="461" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/6431d4f1-6b72-465f-8e0d-95f1c7e6fa3f">
