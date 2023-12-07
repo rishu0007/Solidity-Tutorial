@@ -129,6 +129,7 @@ _Below is the example of parameterised constructor, it needs value at the time o
 **Mapping Integer with Structure**
 
 <img width="391" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/8d7b9ba8-4b3d-4cec-8122-3d47954eb8a4">
+
 <img width="261" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/6817e2ed-f4f3-4aed-938b-9dbdadf6aa20">
 
 <img width="638" alt="image" src="https://github.com/rishu0007/Solidity-Tutorial/assets/106136366/f8df3d2d-ac5f-4c8f-b3b2-cd80939dad59">
